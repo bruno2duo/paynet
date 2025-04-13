@@ -1,3 +1,7 @@
+# IMPORTANTE
+Talvez após baixar o projeto, seja necessário alterar as permissões da pasta paynet/paynet-project
+Para isso, entre na pasta paynet e digite o comando chmod -R 777 paynet-project
+
 # Docker
 [Como iniciar - Linux]
 -- url
